@@ -1,0 +1,12 @@
+name: deep-fwi
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - mamba  # Instala mamba primero
+  - r-essentials
+  - r-base
+  - jupyter
+  - notebook
+  - ipykernel
+  - r-climate4r
