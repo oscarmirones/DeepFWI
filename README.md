@@ -1,6 +1,8 @@
 # DeepFWI
 This repository contains a Jupyter Notebook (`main.ipynb`), where the Fire Weather Index (FWI) is emulated using deep learning techniques with basic climate variables as input features. The `config_nb.yaml` file provides the deep learning optimization parameters, which can be adjusted by the user as desired.
 
+![Alt text](figs/estructuras.png)
+
 ## Environment Installation
 
 The required packages and dependencies to run the experiments are listed in `environment.yaml`. To set up the environment, follow these steps:
